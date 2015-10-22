@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03011e79-93a4-414e-b647-9e2f815ff3e9" name="Default" comment="" />
+    <list default="true" id="03011e79-93a4-414e-b647-9e2f815ff3e9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="logstash-input-nagioscmd-0.0.1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -556,12 +558,12 @@
       <workItem from="1443427387249" duration="72000" />
       <workItem from="1443508156121" duration="45000" />
       <workItem from="1443508433620" duration="248000" />
-      <workItem from="1445535200668" duration="862000" />
+      <workItem from="1445535200668" duration="1023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8501000" />
+    <option name="totallyTimeSpent" value="8662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="1372" extended-state="0" />
